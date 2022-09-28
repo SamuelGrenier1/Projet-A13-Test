@@ -10,4 +10,4 @@ Sujet : La vie d'analyste programmeur
 ## Poème 3
 Sujet : La joie du partage et de la découverte
 
-<img src="image.jpg" alt"description"></img>
+<img src="image.jpg" alt="description"></img>
