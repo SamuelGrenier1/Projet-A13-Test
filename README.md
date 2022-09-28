@@ -1,6 +1,4 @@
 # Projet-A13-Test
-Test  a supprimer par la suite
-
 Dans ce projet je vais écrire 3 poèmes. On va travailler en équipe.
 
 ##Poème1
