@@ -1,4 +1,4 @@
 """
 Partager du code source
-C'est magnifique!
+C'est magnifique la découverte!
 """
