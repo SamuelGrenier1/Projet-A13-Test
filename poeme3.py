@@ -1,3 +1,4 @@
 """
-Bla Bla Bla
+Partager du code source
+C'est magnifique la découverte!
 """
